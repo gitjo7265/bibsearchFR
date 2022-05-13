@@ -4,7 +4,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Lien
 
-[concordance](FR_Bibliquest_final.html)
+[concordance](FR_Bibliquest_finalV7.html)
 
 ### Mode d'emploi
 
